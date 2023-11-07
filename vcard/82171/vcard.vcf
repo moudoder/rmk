@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-11-03T14:30:46Z
+N;CHARSET=utf-8:Подоленчук;Виталий;
+FN;CHARSET=utf-8:Виталий Подоленчук
+ORG;CHARSET=utf-8:РМК
+TITLE;CHARSET=utf-8:Менеджер
+EMAIL;INTERNET;type=PREF:103@rmk-metal.ru
+URL;TYPE=WhatsApp:whatsapp://send?phone=79133980398
+URL;TYPE=Telegram:https://t.me/ego_cards
+URL;TYPE=Сайт:https://rmk-metal.ru
+URL;TYPE=Telegram:https://t.me/+uLPcIAUlPJo1MTQy
+URL;TYPE=Instagram:https://www.instagram.com/instagram-rmk.rus
+ADR;WORK;POSTAL;CHARSET=utf-8:;;630096, Новосибирская область, город Новосибирск, Станционная ул., д. 62/1, офис 606
+LABEL:
+END:VCARD
